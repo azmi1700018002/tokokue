@@ -1,4 +1,4 @@
-heroku config:add BUILDPACK_URL=https://github.com/heroku/heroku-buildpack-php
+<!-- heroku config:add BUILDPACK_URL=https://github.com/heroku/heroku-buildpack-php -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
